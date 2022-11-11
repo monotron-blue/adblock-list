@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Name: Some more shady ads
+! Expires: 2 days
+grewquartersupporting.com/*
+consultingballetshortest.com/*
+nebolouslostpremium.com/*
+googlerespite.com/*
+mathcountryside.com/*
